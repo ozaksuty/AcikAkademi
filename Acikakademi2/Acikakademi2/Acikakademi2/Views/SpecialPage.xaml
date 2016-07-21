@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Acikakademi2.Views.SpecialPage">
+
+  <ContentPage.Content>
+    <TableView Intent="Form">
+      <TableRoot>
+        <TableSection Title="Açık Akademi">
+          <SwitchCell Text="Xamarin" On="True"></SwitchCell>
+          <EntryCell Label="internet adresiniz" LabelColor="Red"
+                     Placeholder="Lütfen internet adresi giriniz"
+                     Keyboard="Url"></EntryCell>
+          <ImageCell ImageSource="logo.png" Text="Açık Akademi"
+                     Detail="Xamarin Eğitimleri 2. Hafta"></ImageCell>
+          <TextCell Text="Açık Akademi" TextColor="Red"
+                    Detail="Xamarin Eğitimleri 2. Hafta"></TextCell>
+        </TableSection>
+      </TableRoot>
+    </TableView>
+  </ContentPage.Content>
+  
+</ContentPage>

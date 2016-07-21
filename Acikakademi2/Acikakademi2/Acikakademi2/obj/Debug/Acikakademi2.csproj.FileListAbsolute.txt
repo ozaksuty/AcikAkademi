@@ -1,0 +1,15 @@
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\bin\Debug\Acikakademi2.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\bin\Debug\Acikakademi2.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.Views.ControlPage.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.Views.SpecialPage.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.Views.MyStyle.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.App.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\obj\Debug\Acikakademi2.Views.ThemePage.xaml.g.cs

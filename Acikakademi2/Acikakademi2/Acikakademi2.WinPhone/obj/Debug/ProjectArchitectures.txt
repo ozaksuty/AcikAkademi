@@ -1,0 +1,2 @@
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2.WinPhone\Acikakademi2.WinPhone.csproj;neutral
+c:\users\yigit\documents\visual studio 2015\Projects\Acikakademi2\Acikakademi2\Acikakademi2\Acikakademi2.csproj;neutral
