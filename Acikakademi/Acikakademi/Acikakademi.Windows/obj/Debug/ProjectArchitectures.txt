@@ -1,0 +1,2 @@
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi.Windows\Acikakademi.Windows.csproj;neutral
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\Acikakademi.csproj;neutral
