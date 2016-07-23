@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Acikakademi.MasterSayfalar.MyMenu">
+
+  <StackLayout BackgroundColor="White">
+    
+    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+      <Image Source="logo.png" VerticalOptions="Center" 
+             HorizontalOptions="Center"></Image>
+    </StackLayout>
+
+    <StackLayout Padding="10" Spacing="20" VerticalOptions="CenterAndExpand">
+      <Label Text="Eğitimler" TextColor="Black"></Label>
+      <Label Text="Başarı Hikayeleri" TextColor="Black"></Label>
+      <Label Text="Açık Akademi TV" TextColor="Black"></Label>
+      <Label Text="İlk 10" TextColor="Black"></Label>
+      <Label Text="Soru-Cevap" TextColor="Black"></Label>
+    </StackLayout>
+
+    <StackLayout Orientation="Horizontal" HeightRequest="20" HorizontalOptions="Center"
+                 VerticalOptions="End" Padding="0,0,0,30">
+      <Label Text="www.acikakademi.com" TextColor="Black"></Label>
+    </StackLayout>
+    
+  </StackLayout>
+  
+</ContentPage>

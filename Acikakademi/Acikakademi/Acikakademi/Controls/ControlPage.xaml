@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Acikakademi.Controls.ControlPage">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="0, 20, 0, 0"
+                Android="0, 0, 0, 0"
+                WinPhone="0, 0, 0, 0" />
+  </ContentPage.Padding>
+
+  <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" Spacing="10"
+               Padding="10">
+    
+    <Button Text="Activity Çalıştır" Clicked="OnClicked"></Button>
+
+    <ActivityIndicator x:Name="activity" IsRunning="False" Color="Red"></ActivityIndicator>
+
+    <DatePicker x:Name="dtPicker" DateSelected="onDateSelected"></DatePicker>
+
+    <Editor FontAttributes="Italic" FontFamily="Arial" FontSize="14"
+            TextColor="Red" BackgroundColor="Black" HeightRequest="150"></Editor>
+
+    <Entry FontAttributes="Bold" FontFamily="Calibri" FontSize="24"
+           HorizontalTextAlignment="Center" Placeholder="Açık Akademi"
+           PlaceholderColor="Gray" TextColor="Black"
+           Keyboard="Numeric" IsPassword="True"></Entry>
+
+    <Picker Title="Xamarin" SelectedIndexChanged="onChanged">
+      <Picker.Items>
+        <x:String>1</x:String>
+        <x:String>2</x:String>
+      </Picker.Items>
+    </Picker>
+    
+    <ProgressBar x:Name="progressBar" Progress=".5"></ProgressBar>
+    
+    <Slider Minimum="0" Maximum="100" Value="70" ValueChanged="onValueChanged"></Slider> 
+    <Label x:Name="lblSliderValue" FontAttributes="Bold" FontSize="14"
+           TextColor="Red" HorizontalTextAlignment="Center"></Label>
+    
+    <Slider x:Name="slider"
+            Maximum="360"
+            VerticalOptions="CenterAndExpand" />
+
+    <Label BindingContext="{x:Reference slider}"
+           Text="{Binding Value, 
+                          StringFormat='{0:F0}'}"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+  
+    <Stepper Minimum="5" Maximum="100" Increment="5" 
+             ValueChanged="onStepperValueChanged"></Stepper>
+  
+    <Switch IsToggled="True" Toggled="onToggled"></Switch>
+  
+    <TimePicker></TimePicker>
+  </StackLayout>
+</ContentPage>
