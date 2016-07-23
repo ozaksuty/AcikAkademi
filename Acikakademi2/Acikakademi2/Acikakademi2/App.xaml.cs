@@ -8,7 +8,7 @@ namespace Acikakademi2
         public App()
         {
             InitializeComponent();
-            MainPage = new ThemePage();
+            MainPage = new ThemePage(); 
         }
     }
 }
