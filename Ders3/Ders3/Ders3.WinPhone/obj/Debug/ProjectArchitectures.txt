@@ -1,0 +1,2 @@
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3.WinPhone\Ders3.WinPhone.csproj;neutral
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\Ders3.csproj;neutral

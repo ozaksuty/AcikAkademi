@@ -1,0 +1,15 @@
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Ders3.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Ders3.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\obj\Debug\Ders3.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\obj\Debug\Ders3.Views.ListViewOrnek.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\obj\Debug\Ders3.dll
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\obj\Debug\Ders3.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\obj\Debug\Ders3.Views.SanalSiniflar.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\obj\Debug\Ders3.Views.Detail.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\obj\Debug\Ders3.dll.mdb
+c:\users\yigit\documents\visual studio 2015\Projects\Ders3\Ders3\Ders3\bin\Debug\Ders3.dll.mdb

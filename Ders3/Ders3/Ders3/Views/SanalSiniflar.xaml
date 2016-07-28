@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Ders3.Data;assembly=Ders3"
+             x:Class="Ders3.Views.SanalSiniflar"
+             BackgroundColor="White">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness" iOS="0,20,0,0"/>
+  </ContentPage.Padding>
+
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:imageSourceConverter x:Key="imageConverter"/>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+
+      <SearchBar x:Name="txtSearch" Placeholder="Sanal Sınıf Ara"
+                 BackgroundColor="#000"
+                 TextChanged="onTextChanged"></SearchBar>
+      
+      <ListView x:Name="lstMVA" ItemsSource="{Binding .}"
+                Footer="{Binding Count, Source={x:Static local:MVAFactory.MVAData}}"
+                IsGroupingEnabled="True"
+                GroupDisplayBinding="{Binding Key}"
+                GroupShortNameBinding="{Binding Key}"
+                CachingStrategy="RecycleElement"
+                ItemSelected="onSelected"
+                IsPullToRefreshEnabled="True"
+                Refreshing="onRefresh">
+
+        <ListView.Header>
+
+          <ContentView Padding="0,5" BackgroundColor="#fff">
+            <Label FontSize="Medium" TextColor="#000"
+                   Text="Microsoft Açık Akademi Sanal Sınıflar"
+                   HorizontalTextAlignment="Center"
+                   VerticalOptions="Center"></Label>
+          </ContentView>
+        </ListView.Header>
+        
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ImageCell Text="{Binding Title}" TextColor="#f46508"
+                       Detail="{Binding Description}" DetailColor="#333"
+                       ImageSource="{Binding ImageUrl, 
+                       Converter={StaticResource imageConverter}}">
+
+              <ImageCell.ContextActions>
+                <MenuItem Text="Sil" IsDestructive="True"></MenuItem>
+                <MenuItem Text="Güncelle" Clicked="onMenuItemClicked"></MenuItem>
+              </ImageCell.ContextActions>
+              
+            </ImageCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+
+        <ListView.FooterTemplate>
+          <DataTemplate>
+            <ContentView Padding="0,5,5,0">
+              <Label FontSize="Medium"
+                     TextColor="#666"
+                     VerticalTextAlignment="Center"
+                     HorizontalTextAlignment="End"
+                     Text="{Binding ., StringFormat='{0} sanal sınıf mevcut'}"></Label>
+            </ContentView>
+          </DataTemplate>
+        </ListView.FooterTemplate>
+        
+      </ListView>
+    </StackLayout>
+  </ContentPage.Content>
+
+</ContentPage>

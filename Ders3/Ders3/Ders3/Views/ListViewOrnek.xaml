@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ders3.Views.ListViewOrnek">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness" iOS="0,20,0,0" />
+  </ContentPage.Padding>
+  
+  <StackLayout Orientation="Vertical">
+    <ListView x:Name="lstView" ItemsSource="{Binding .}" ItemSelected="onSelected">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout Orientation="Horizontal">
+              <Label Text="{Binding Name}"></Label>
+              <Image Source="{Binding ImageUrl}" HeightRequest="50"></Image>
+              <Button Text="Sil" Clicked="onClicked" CommandParameter="{Binding ID}"></Button>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+  
+</ContentPage>
