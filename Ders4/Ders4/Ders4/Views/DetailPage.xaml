@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ders4.Views.DetailPage">
+
+  <StackLayout Orientation="Vertical">
+    <Label x:Name="lblName" VerticalOptions="Center" HorizontalOptions="Center" />
+    <Label x:Name="lblSurname" VerticalOptions="Center" HorizontalOptions="Center" />
+  </StackLayout>
+  
+</ContentPage>

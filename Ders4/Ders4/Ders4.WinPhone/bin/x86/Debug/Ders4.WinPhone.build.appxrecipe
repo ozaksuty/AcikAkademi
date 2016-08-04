@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-CSFVJ61</Machine>
+    <WindowsUser>Yigit</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>e8ebdf4c-1a3c-4b54-919a-429e98e93142</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\bin\x86\Debug\Ders4.WinPhone.exe">
+      <PackagePath>Ders4.WinPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4\bin\Debug\Ders4.dll">
+      <PackagePath>Ders4.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\SQLite.Net.Core-PCL.3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\SQLite.Net-PCL.3.1.1\lib\portable-win81+wpa81\SQLite.Net.Platform.WinRT.dll">
+      <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT.Phone.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\SQLite.WP81\3.13.0\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\bin\x86\Debug\Ders4.WinPhone.xr.xml">
+      <PackagePath>Ders4.WinPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT.Phone\PhoneResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Phone\PhoneResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT.Phone\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Phone\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT.Phone\SearchBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Phone\SearchBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Platform.WinRT.Phone\Xamarin.Forms.Platform.WinRT.Phone.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Phone\Xamarin.Forms.Platform.WinRT.Phone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.WinPhone\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

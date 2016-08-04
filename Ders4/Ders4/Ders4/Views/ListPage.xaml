@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ders4.Views.ListPage">
+
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Name="Yenile" Activated="onMenuRefresh" Order="Secondary" Priority="0"></ToolbarItem>
+    <ToolbarItem Name="Ekle" Activated="onMenuInsert" Order="Secondary" Priority="1"></ToolbarItem>
+    <ToolbarItem Name="Listele" Order="Secondary" Priority="2"></ToolbarItem>
+  </ContentPage.ToolbarItems>
+  
+  <ContentPage.Content>
+    <StackLayout>
+      <ListView x:Name="lstStudents" ItemsSource="{Binding .}">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <TextCell Text="{Binding Name}" Detail="{Binding Surname}">
+
+              <TextCell.ContextActions>
+                <MenuItem CommandParameter="{Binding Id}" Text="Sil" 
+                          IsDestructive="True" Clicked="onMenuDelete"></MenuItem>
+                <MenuItem CommandParameter="{Binding Id}" Text="Detay"
+                          Clicked="onMenuDetail"></MenuItem>
+              </TextCell.ContextActions>
+              
+            
+          </TextCell>
+            
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </ContentPage.Content>
+  
+</ContentPage>

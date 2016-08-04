@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\ders4\ders4.winphone\obj\x86\debug\intermediatexaml\ders4.winphone.exe" HashGuid="7a71e6b0-ffbd-024d-c034-99fa286daa9a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\ders4\ders4\bin\debug\ders4.dll" HashGuid="0d9f52d5-168d-ed27-9a1b-917b2bcfd8e0" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\packages\sqlite.net.core-pcl.3.1.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.dll" HashGuid="2223cbf7-68d4-e5e4-e5e4-a19696ad83b6" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\packages\sqlite.net-pcl.3.1.1\lib\portable-win81+wpa81\sqlite.net.platform.winrt.dll" HashGuid="1bc7eaa0-e36a-f105-20d8-c57b14216cea" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders4\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

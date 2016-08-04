@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
