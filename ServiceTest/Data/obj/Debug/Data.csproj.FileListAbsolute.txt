@@ -1,0 +1,14 @@
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\Data.dll.config
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\Data.dll
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\Data.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\EntityFramework.dll
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\Model.dll
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\Model.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\EntityFramework.xml
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\obj\Debug\Data.dll
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\obj\Debug\Data.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\obj\Debug\Data.Migrations.AcikAkademi.resources
+c:\users\yigit\documents\visual studio 2015\Projects\ServiceTest\Data\obj\Debug\Data.csproj.GenerateResource.Cache

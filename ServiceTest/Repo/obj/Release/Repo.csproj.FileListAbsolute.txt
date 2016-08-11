@@ -1,0 +1,14 @@
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\Repo.dll.config
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\Repo.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\Repo.pdb
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\Data.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\EntityFramework.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\Model.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\Data.pdb
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\Model.pdb
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\EntityFramework.xml
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\obj\Release\Repo.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\obj\Release\Repo.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Repo\obj\Release\Repo.pdb

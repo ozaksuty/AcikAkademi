@@ -2,7 +2,21 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Acikakademi2.Views.ThemePage">
-
+  
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style x:Key="LabelStyle" TargetType="Label">
+        <Setter Property="TextColor" Value="Red"></Setter>
+        <Setter Property="FontSize" Value="24"></Setter>
+        <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+      </Style>
+      <Style x:Key="LabelFont" TargetType="Label"
+             BasedOn="{StaticResource LabelStyle}">
+        <Setter Property="FontAttributes" Value="Bold"></Setter>
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  
   <ContentPage.Content>
     <StackLayout>
       <StackLayout Style="{DynamicResource DefaultBackground}">

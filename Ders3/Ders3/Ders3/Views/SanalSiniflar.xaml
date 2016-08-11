@@ -33,7 +33,6 @@
                 Refreshing="onRefresh">
 
         <ListView.Header>
-
           <ContentView Padding="0,5" BackgroundColor="#fff">
             <Label FontSize="Medium" TextColor="#000"
                    Text="Microsoft Açık Akademi Sanal Sınıflar"

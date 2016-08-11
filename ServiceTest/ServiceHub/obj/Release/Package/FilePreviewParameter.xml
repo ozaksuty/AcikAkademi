@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="aakademi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Yigit\\Documents\\Visual\ Studio\ 2015\\Projects\\ServiceTest\\ServiceHub\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Yigit\\Documents\\Visual\ Studio\ 2015\\Projects\\ServiceTest\\ServiceHub\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Connection-Web.config Connection String" description="" value="Data Source=tcp:acikakademi.database.windows.net,1433;Initial Catalog=AcikAkademi;Persist Security Info=False;User ID=yigit;Password=File41313!;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Yigit\\Documents\\Visual\ Studio\ 2015\\Projects\\ServiceTest\\ServiceHub\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Connection']/@connectionString" />
+  </parameter>
+</parameters>

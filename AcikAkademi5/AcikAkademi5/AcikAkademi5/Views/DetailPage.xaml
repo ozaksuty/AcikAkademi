@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AcikAkademi5.Views.DetailPage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical">
+      <TableView Intent="Form">
+        <TableRoot>
+          <TableSection Title="Update Student Form">
+            <EntryCell x:Name="txtName" Label="İsim giriniz"></EntryCell>
+            <EntryCell x:Name="txtSurname" Label="Soyisim giriniz"></EntryCell>
+            <EntryCell x:Name="txtAbout" Label="Hakkında"></EntryCell>
+            <ViewCell>
+              <DatePicker x:Name="dtpckrBirthDate"></DatePicker>
+            </ViewCell>
+            <ViewCell>
+              <Button x:Name="btnUpdate" CommandParameter="{Binding}" Text="UPDATE" Clicked="onUpdate"></Button>
+            </ViewCell>
+          </TableSection>
+        </TableRoot>
+      </TableView>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

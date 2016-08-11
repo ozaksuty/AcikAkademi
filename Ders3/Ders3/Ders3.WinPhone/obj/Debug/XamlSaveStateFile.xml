@@ -1,11 +1,11 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders3\ders3\ders3.winphone\obj\debug\intermediatexaml\ders3.winphone.exe" HashGuid="84b30620-d5aa-fffe-7a40-a7eb8bccdb21" />
-    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders3\ders3\ders3\bin\debug\ders3.dll" HashGuid="960c9179-6657-6d5a-a264-54a9618601b7" />
-    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
-    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
-    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
-    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
-    <ReferenceAssembly PathName="c:\users\yigit\documents\visual studio 2015\projects\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\github\acikakademi\ders3\ders3\ders3\bin\debug\ders3.dll" HashGuid="78a7a7b2-d57b-c9b1-a4c7-13ecf924172b" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\github\acikakademi\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\github\acikakademi\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\github\acikakademi\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\github\acikakademi\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
+    <ReferenceAssembly PathName="c:\users\yigit\documents\github\acikakademi\ders3\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

@@ -1,0 +1,14 @@
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\Data.dll.config
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\Data.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\Data.pdb
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\EntityFramework.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\Model.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\Model.pdb
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\EntityFramework.xml
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\obj\Release\Data.Migrations.AcikAkademi.resources
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\obj\Release\Data.csproj.GenerateResource.Cache
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\obj\Release\Data.dll
+C:\Users\Yigit\Documents\Visual Studio 2015\Projects\ServiceTest\Data\obj\Release\Data.pdb

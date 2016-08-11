@@ -13,3 +13,20 @@ C:\Users\Yigit\documents\visual studio 2015\Projects\Ders4\Ders4\Ders4\bin\Debug
 C:\Users\Yigit\documents\visual studio 2015\Projects\Ders4\Ders4\Ders4\obj\Debug\Ders4.Views.ListPage.xaml.g.cs
 C:\Users\Yigit\documents\visual studio 2015\Projects\Ders4\Ders4\Ders4\obj\Debug\Ders4.Views.InsertPage.xaml.g.cs
 C:\Users\Yigit\Documents\Visual Studio 2015\Projects\Ders4\Ders4\Ders4\obj\Debug\Ders4.Views.DetailPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Ders4.dll
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Ders4.pdb
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\SQLite.Net.dll
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.Views.FirstPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.Views.ListPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.Views.InsertPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.Views.DetailPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.dll
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.pdb
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\obj\Debug\Ders4.dll.mdb
+C:\Users\Yigit\Documents\GitHub\AcikAkademi\Ders4\Ders4\Ders4\bin\Debug\Ders4.dll.mdb

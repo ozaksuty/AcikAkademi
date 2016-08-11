@@ -1,12 +1,9 @@
 ﻿using Ders4.CustomControls;
 using Ders4.iOS.CustomRenderers;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
-[assembly: ExportRenderer(typeof(CUstomDatePicker), 
+[assembly: ExportRenderer(typeof(CUstomDatePicker),
     typeof(CustomDatePickerRenderer))]
 namespace Ders4.iOS.CustomRenderers
 {

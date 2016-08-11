@@ -3,7 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Acikakademi.Layouts.GridOrnek">
   <Grid>
-
     <Grid.RowDefinitions>
       <RowDefinition Height="*"></RowDefinition>
       <RowDefinition Height="*"></RowDefinition>

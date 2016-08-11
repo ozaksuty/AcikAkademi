@@ -40,13 +40,3 @@ C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\
 C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\bin\Debug\Acikakademi.dll.mdb
 C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\obj\Debug\Acikakademi.dll.mdb
 C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\bin\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\obj\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\bin\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\obj\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\bin\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\obj\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\bin\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\obj\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\bin\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\obj\Debug\Acikakademi.dll.mdb
-C:\Users\Yigit\Documents\GitHub\AcikAkademi\Acikakademi\Acikakademi\Acikakademi\bin\Debug\Acikakademi.dll.mdb
