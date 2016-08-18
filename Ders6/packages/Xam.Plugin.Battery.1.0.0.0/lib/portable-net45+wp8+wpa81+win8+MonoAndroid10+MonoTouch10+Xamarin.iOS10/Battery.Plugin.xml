@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Battery.Plugin</name>
+    </assembly>
+    <members>
+        <member name="T:Battery.Plugin.CrossBattery">
+            <summary>
+            Cross platform Battery implemenations
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.CrossBattery.Dispose">
+            <summary>
+            Dispose of everything 
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.CrossBattery.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>

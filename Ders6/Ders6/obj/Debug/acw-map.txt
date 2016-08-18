@@ -1,0 +1,16 @@
+Ders6.InsertActivity, Ders6;md50e96410d9b9bde92fff05b94aef3e4f2.InsertActivity
+Ders6.InsertActivity, Ders6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e96410d9b9bde92fff05b94aef3e4f2.InsertActivity
+Ders6.InsertActivity;md50e96410d9b9bde92fff05b94aef3e4f2.InsertActivity
+ders6.InsertActivity;md50e96410d9b9bde92fff05b94aef3e4f2.InsertActivity
+Ders6.ListActivity, Ders6;md50e96410d9b9bde92fff05b94aef3e4f2.ListActivity
+Ders6.ListActivity, Ders6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e96410d9b9bde92fff05b94aef3e4f2.ListActivity
+Ders6.ListActivity;md50e96410d9b9bde92fff05b94aef3e4f2.ListActivity
+ders6.ListActivity;md50e96410d9b9bde92fff05b94aef3e4f2.ListActivity
+Ders6.LoginActivity, Ders6;md50e96410d9b9bde92fff05b94aef3e4f2.LoginActivity
+Ders6.LoginActivity, Ders6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e96410d9b9bde92fff05b94aef3e4f2.LoginActivity
+Ders6.LoginActivity;md50e96410d9b9bde92fff05b94aef3e4f2.LoginActivity
+ders6.LoginActivity;md50e96410d9b9bde92fff05b94aef3e4f2.LoginActivity
+Ders6.MainActivity, Ders6;md50e96410d9b9bde92fff05b94aef3e4f2.MainActivity
+Ders6.MainActivity, Ders6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e96410d9b9bde92fff05b94aef3e4f2.MainActivity
+Ders6.MainActivity;md50e96410d9b9bde92fff05b94aef3e4f2.MainActivity
+ders6.MainActivity;md50e96410d9b9bde92fff05b94aef3e4f2.MainActivity

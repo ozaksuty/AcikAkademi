@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Ders6.Ders6" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Ders6" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="InsertActivity" android:name="md50e96410d9b9bde92fff05b94aef3e4f2.InsertActivity" />
+    <activity android:label="ListActivity" android:name="md50e96410d9b9bde92fff05b94aef3e4f2.ListActivity" />
+    <activity android:label="LoginActivity" android:name="md50e96410d9b9bde92fff05b94aef3e4f2.LoginActivity" />
+    <activity android:icon="@drawable/icon" android:label="Ders6" android:screenOrientation="portrait" android:name="md50e96410d9b9bde92fff05b94aef3e4f2.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Ders6.Ders6.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Ders6.Ders6" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Battery.Plugin</name>
+    </assembly>
+    <members>
+        <member name="T:Battery.Plugin.BatteryImplementation">
+            <summary>
+            Implementation for Battery
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.BatteryImplementation.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.BatteryImplementation.BatteryChangedNotification(System.Object,Foundation.NSNotificationEventArgs)">
+            <summary>
+            Battery changed notification triggered, bubble up.
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.BatteryImplementation.Dispose(System.Boolean)">
+            <summary>
+            Dispose
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="P:Battery.Plugin.BatteryImplementation.RemainingChargePercent">
+            <summary>
+            Gets current level of battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.BatteryImplementation.Status">
+            <summary>
+            Gets current state of battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.BatteryImplementation.PowerSource">
+            <summary>
+            Get charge type (guesstimate on iOS)
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.Helpers.EnsureInvokedOnMainThread(System.Action)">
+            <summary>
+            Ensures the invoked on main thread.
+            </summary>
+            <param name="action">Action to run on main thread.</param>
+        </member>
+        <member name="T:Battery.Plugin.CrossBattery">
+            <summary>
+            Cross platform Battery implemenations
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.CrossBattery.Dispose">
+            <summary>
+            Dispose of everything 
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.CrossBattery.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>

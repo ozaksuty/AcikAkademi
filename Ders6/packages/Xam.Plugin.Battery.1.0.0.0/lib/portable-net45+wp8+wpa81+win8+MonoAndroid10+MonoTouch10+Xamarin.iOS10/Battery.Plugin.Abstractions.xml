@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Battery.Plugin.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Battery.Plugin.Abstractions.BaseBatteryImplementation">
+            <summary>
+            Base class for cross battery.
+            </summary>
+        </member>
+        <member name="T:Battery.Plugin.Abstractions.IBattery">
+            <summary>
+            Interface for Battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.IBattery.RemainingChargePercent">
+            <summary>
+            Current battery level 0 - 100
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.IBattery.Status">
+            <summary>
+            Current status of the battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.IBattery.PowerSource">
+            <summary>
+            Currenlty how the battery is being charged.
+            </summary>
+        </member>
+        <member name="E:Battery.Plugin.Abstractions.IBattery.BatteryChanged">
+            <summary>
+            Event handler when battery changes
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.Abstractions.BaseBatteryImplementation.OnBatteryChanged(Battery.Plugin.Abstractions.BatteryChangedEventArgs)">
+            <summary>
+            When battery level changes
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Battery.Plugin.Abstractions.BaseBatteryImplementation.Dispose">
+            <summary>
+            Dispose of class and parent classes
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.Abstractions.BaseBatteryImplementation.Finalize">
+            <summary>
+            Dispose up
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.Abstractions.BaseBatteryImplementation.Dispose(System.Boolean)">
+            <summary>
+            Dispose method
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.BaseBatteryImplementation.RemainingChargePercent">
+            <summary>
+            Current battery level (0 - 100)
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.BaseBatteryImplementation.Status">
+            <summary>
+            Current status of battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.BaseBatteryImplementation.PowerSource">
+            <summary>
+            Current charge type of battery
+            </summary>
+        </member>
+        <member name="E:Battery.Plugin.Abstractions.BaseBatteryImplementation.BatteryChanged">
+            <summary>
+            Event that fires when Battery status, level, power changes
+            </summary>
+        </member>
+        <member name="T:Battery.Plugin.Abstractions.BatteryStatus">
+            <summary>
+            Current status of battery
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.BatteryStatus.Charging">
+            <summary>
+            Plugged in and charging
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.BatteryStatus.Discharging">
+            <summary>
+            Battery is being drained currently
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.BatteryStatus.Full">
+            <summary>
+            Battery is full completely
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.BatteryStatus.NotCharging">
+            <summary>
+            Not charging, but not discharging either
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.BatteryStatus.Unknown">
+            <summary>
+            Unknown or other status
+            </summary>
+        </member>
+        <member name="T:Battery.Plugin.Abstractions.PowerSource">
+            <summary>
+            Currently how battery is being charged.
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.PowerSource.Battery">
+            <summary>
+            Not currently charging and on battery
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.PowerSource.Ac">
+            <summary>
+            Wall charging
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.PowerSource.Usb">
+            <summary>
+            USB charging
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.PowerSource.Wireless">
+            <summary>
+            Wireless charging
+            </summary>
+        </member>
+        <member name="F:Battery.Plugin.Abstractions.PowerSource.Other">
+            <summary>
+            Other or unknown charging.
+            </summary>
+        </member>
+        <member name="T:Battery.Plugin.Abstractions.BatteryChangedEventArgs">
+            <summary>
+            Arguments to pass to event handlers
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.BatteryChangedEventArgs.IsLow">
+            <summary>
+            If the battery level is considered low
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.BatteryChangedEventArgs.RemainingChargePercent">
+            <summary>
+            Gets if there is an active internet connection
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.BatteryChangedEventArgs.Status">
+            <summary>
+            Current status of battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.Abstractions.BatteryChangedEventArgs.PowerSource">
+            <summary>
+            Get the source of power.
+            </summary>
+        </member>
+        <member name="T:Battery.Plugin.Abstractions.BatteryChangedEventHandler">
+            <summary>
+            Battery Level changed event handlers
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>
