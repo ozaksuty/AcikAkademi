@@ -1,0 +1,12 @@
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\bin\iPhoneSimulator\Debug\Ders7.exe
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\bin\iPhoneSimulator\Debug\Ders7.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\optimized\
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\Ders7.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\Ders7.exe
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\Ders7.pdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\Ders7\Ders7\obj\iPhoneSimulator\Debug\Ders7.exe.mdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\Ders7\Ders7\bin\iPhoneSimulator\Debug\Ders7.exe.mdb

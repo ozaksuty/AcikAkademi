@@ -1,0 +1,17 @@
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\bin\iPhoneSimulator\Debug\Ders7ek.exe
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\bin\iPhoneSimulator\Debug\Ders7ek.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\optimized\
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\Ders7ek.exe
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\Ders7ek.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.nib
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\14-view-19.nib
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\26-view-27.nib
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\Info.plist
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UINavigationController-12.nib
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UIViewController-26.nib
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\obj\iPhoneSimulator\Debug\Ders7ek.exe.mdb
+c:\users\yigit\documents\visual studio 2015\Projects\Ders7ek\Ders7ek\bin\iPhoneSimulator\Debug\Ders7ek.exe.mdb

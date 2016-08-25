@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Battery.Plugin</name>
+    </assembly>
+    <members>
+        <member name="T:Battery.Plugin.CrossBattery">
+            <summary>
+            Cross platform Battery implemenations
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.CrossBattery.Dispose">
+            <summary>
+            Dispose of everything 
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.CrossBattery.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:Battery.Plugin.BatteryImplementation">
+            <summary>
+            Implementation for Battery
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.BatteryImplementation.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:Battery.Plugin.BatteryImplementation.Dispose(System.Boolean)">
+            <summary>
+            Dispose
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="P:Battery.Plugin.BatteryImplementation.RemainingChargePercent">
+            <summary>
+            Gets current level of battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.BatteryImplementation.Status">
+            <summary>
+            Get the current status of the battery
+            </summary>
+        </member>
+        <member name="P:Battery.Plugin.BatteryImplementation.PowerSource">
+            <summary>
+            Get the power source currently
+            </summary>
+        </member>
+    </members>
+</doc>
